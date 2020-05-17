@@ -9,3 +9,9 @@ activating it in unbuntu/linux/parrot
 ``py manage.py runserver``# Running the server 
 
 go to browser and navigate to https://127.0.0.1:8000
+
+# Dependendicies 
+
+bcrypt
+django
+
